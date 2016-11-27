@@ -67,9 +67,25 @@ The Makefile that uses *pandoc* to generate html format pages for workshop main 
 
 4. The URL for your workshop website is determined automatically based on the URL for your repository. If your respository is at `https://github.com/Southampton-RSG/2016-12-01-southampton`, its GitHub Pages website is at `http://Southampton-RSG.github.io/2016-12-01-southampton`.
 
-5. When you are done editing, 
+5. When you are done editing, please run below commands in sequence:
 
-you can preview your website. Again, if your repository is `https://github.com/your_username/YYYY-MM-DD-site`, its website will be `http://your_username.github.io/YYYY-MM-DD-site`.
+   **Note:** Make sure `Makefile` is present in the directory where you'll be running these commands.
+
+   * Check your changes by running:
+
+     ~~~
+     make check
+     ~~~
+     This runs `tools\check.py`. 
+
+   * Preview your changes by running:
+
+     ~~~
+     make preview
+     ~~~
+     This runs `tools\preview`. After this, you should be able to preview your pages locally by opening newly-created `html` pages from respective `md` files. 
+
+6. Now, you can add and push the changes to remote repository and you can then preview your website. If your repository is `https://github.com/your_username/YYYY-MM-DD-site`, its website will be `http://your_username.github.io/YYYY-MM-DD-site`.
 
 
 
