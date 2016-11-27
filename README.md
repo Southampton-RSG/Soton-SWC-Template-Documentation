@@ -10,7 +10,7 @@ Please follow the instructions below to create a website respository for SWC wor
 
 ## Creating a Repository
 
-1. Go to [GitHub's importer][import].
+1. Go to [GitHub's importer](https://github.com/new/import).
 
 2. Click on "Check the URL".  (GitHub won't import until you've done this.) 
 
