@@ -61,7 +61,7 @@ The Makefile that uses *pandoc* to generate html format pages for workshop main 
 
 2. Clone the repository using the command:
 
-`git clone https://github.com/Southampton-RSG/2016-12-01-southampton`
+   `git clone https://github.com/Southampton-RSG/2016-12-01-southampton`
 
 3. Edit `index.html` to customize the list of instructors, workshop venue, etc.You can do this in the browser by clicking on it in the file view and then selecting the pencil icon in the menu bar or you can clone the repository to your desktop, edit `index.html` there, and push your changes back to the repository.
 
