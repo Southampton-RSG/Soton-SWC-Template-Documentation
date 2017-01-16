@@ -1,6 +1,6 @@
 # SOUTHAMPTON RESEARCH SOFTWARE GROUP'S SOFTWARE CARPENTRY WORKSHOP TEMPLATE
 
-This repository is inspired by the standard Software Carpentry workshop template but specific to University of Southampton Research Software Group's template for creating websites for workshops.
+This repository is inspired by the standard Software Carpentry workshop template but specific to University of Southampton Research Software Group's template with updated Python, Git and Unit Testing material (w.e.f August SWC workshop at Southampton) for creating websites for workshops.
 
 Updated Python lessons are present in [Southampton's August SWC workshop repository](https://github.com/Southampton-RSG/2016-08-31-southampton).
 
